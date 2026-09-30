@@ -13,7 +13,7 @@ class AppServiceProvider extends ServiceProvider
     {
         //
     }
-adasdadadadadadad
+
     /**
      * Bootstrap any application services.
      */
